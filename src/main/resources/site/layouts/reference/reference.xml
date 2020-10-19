@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<layout>
+	<display-name>Reference layout</display-name>
+    <form>
+        <mixin name="references"/>
+    </form>
+    <regions>
+        <region name="main"/>
+    </regions>
+</layout>

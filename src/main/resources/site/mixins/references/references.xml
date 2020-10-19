@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mixin>
+    <display-name>references mixin</display-name>
+    <form>
+		<input name="contents" type="ContentSelector">
+			<label>Content</label>
+			<occurrences minimum="0" maximum="0"/>
+			<config/>
+		</input>
+		<input name="images" type="ImageSelector">
+			<label>Image</label>
+			<occurrences minimum="0" maximum="0"/>
+			<config/>
+		</input>
+	</form>
+</mixin>

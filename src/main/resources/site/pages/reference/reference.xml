@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page>
+    <display-name>Reference page</display-name>
+    <form>
+        <mixin name="references"/>
+    </form>
+    <regions>
+        <region name="body"/>
+    </regions>
+</page>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<x-data>
+  <display-name>References</display-name>
+  <form>
+	  <mixin name="references"/>
+  </form>
+</x-data>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <content-type>
 	<display-name>Reference</display-name>
 	<super-type>base:structured</super-type>
@@ -6,15 +6,6 @@
 	<is-final>true</is-final>
 	<allow-child-content>true</allow-child-content>
 	<form>
-		<input name="contents" type="ContentSelector">
-			<label>Content</label>
-			<occurrences minimum="0" maximum="0"/>
-			<config/>
-		</input>
-		<input name="images" type="ImageSelector">
-			<label>Image</label>
-			<occurrences minimum="0" maximum="0"/>
-			<config/>
-		</input>
+		<mixin name="references"/>
 	</form>
 </content-type>
